@@ -56,7 +56,7 @@ int main() {
 		case 3:
 			cout << "Masukan jari-jari : ";
 			cin >> jejari;
-			cout << "Luas Lingkaran = "; << LuasLingkaran(jejari);
+			cout << "Luas Lingkaran = " << LuasLingkaran(jejari);
 			break;
 
 		case 4:
